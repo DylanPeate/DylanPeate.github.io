@@ -12513,3 +12513,10 @@ html {
   width: 96px;
   height: 96px;
 }
+
+.tech-list {
+  margin-top: -10px;
+  font-size: small;
+  font-weight: bold;
+  color: gray;
+}
